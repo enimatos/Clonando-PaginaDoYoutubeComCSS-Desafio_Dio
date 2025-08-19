@@ -4,41 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YouTube Clone</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 </head>
 <body>
     <header>
         <nav>
-            <img src="/img/esquerda.svg" alt="menu hamburger">
-            <img src="/img/search.svg" alt="barra de pesquisa">
-            <img src="img/direita.svg" alt="">            
+            <img src="/assets/img/esquerda.svg" alt="menu hamburger">
+            <img src="/assets/img/search.svg" alt="barra de pesquisa">
+            <img src="/assets/img/direita.svg" alt="">            
         </nav>
     </header>
-</body>
-<main>
+    <main>
     <div id="container-esquerda">
         <vide>
-            <iframe width="952" height="537" src="https://www.youtube.com/embed/ZUBe_X6KU_w?si=pfaHxFdtTkkO8YK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="952" height="537" src="https://www.youtube.com/embed/0IY5TJwAbcQ?si=i2o573eSqkmKWefM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </video>
-        <h3>Semana Front-end | Dia 01: Construindo uma Landing Page no Mundo Invertido com HTML e CSS</h3>
-        <img src="img/controles.svg" alt="controles do youtube" >
+        <p class="assunto">Semana Front-end | Dia 01: Construindo uma Landing Page no Mundo Invertido com HTML e CSS</p>
+        <div class="controles">
+            <img src="/assets/img/infos.svg" alt="informações dos views">
+            <img src="/assets/img/subscribe.svg" alt="botao para se inscrever">
+            <img src="/assets/img/like.svg" alt="like">
+            <img src="/assets/img/dislike.svg" alt="dislike">
+            <img src="/assets/img/compartilhar.svg" alt="botão de compartilhar">
+            <img src="/assets/img/download.svg" alt="botão de download">
+
+        </div>
         <p class="negrito">28.418 visualizações  Transmitido ao vivo em 23 ago. de 2022</p>
         <p class="descricao">Inicie uma aventura imersiva no mundo do Front-end com HTML e CSS. Para isso, criaremos uma landing page com a temática da série Stranger Things, a qual contará com a implementação de um theme switcher (light e dark) para explorarmos os mistérios do mundo invertido.</p>
 
     </div>
     <div id="container-direita">
-        <div class="imagem">
-            <img src="img/img1.svg" alt="descricao 1"  class="img-pequena">
+        <div class="texto" id="lista">
         </div>
-        <div class="texto">
-            <p class="negrito">Geração Tech Unimed - BH - Ciência de Dados</p>
-            <p class="semititulo">DigitalInnovationOne</p>
-            <p class="visualizacao-pequena">2,1 mil visualizações <br>Transmitido há 2 dias</p>
-        </div>
-       
-
-
     </div>
 </main>
+<script type="module" src="./assets/js/main.js"></script>
+</body>
+
 </html>

@@ -1,0 +1,67 @@
+{
+  "lista": [
+    {
+      "img": "./imagens/img1.svg",
+      "title": "Geração Tech Unimed - BH - Ciência de Dados",
+      "dio": "DigitalInnovationOne",
+      "view": "2,1 mil visualizações",
+      "transmissao": "Transmitido há 2 dias"
+    },
+    {
+      "img": "./imagens/img2.svg",
+      "title": "Scrum Talks",
+      "dio": "DigitalInnovationOne",
+      "view": "1,6 mil visualizaçõe",
+      "transmissao": "Transmitido há 3 dias"
+    },
+    {
+      "img": "./imagens/img3.svg",
+      "title": "Machine Learning Avançado - Fast Track",
+      "dio": "DigitalInnovationOne",
+      "view": "1,7 mil visualizações",
+      "transmissao": "Transmitido há 4 dias"
+    },
+    {
+      "img": "./imagens/img4.svg",
+      "title": "Global Skills #2 - Project Planning",
+      "dio": "DigitalInnovationOne",
+      "view": "971 visualizações",
+      "transmissao": "Transmitido há 5 dias"
+    },
+    {
+      "img": "./imagens/img5.svg",
+      "title": "Como aprender a programar Python do ZERO",
+      "dio": "DigitalInnovationOne",
+      "view": "711 visualizações",
+      "transmissao": "Transmitido há 6 dias"
+    },
+    {
+      "img": "./imagens/img6.svg",
+      "title": "Geração Tech Unimed - BH - Ciência de Dados",
+      "dio": "DigitalInnovationOne",
+      "view": "2,1 mil visualizações",
+      "transmissao": "Transmitido há 2 dias"
+    },
+    {
+      "img": "./imagens/img7.svg",
+      "title": "Scrum Talks",
+      "dio": "DigitalInnovationOne",
+      "view": "1,6 mil visualizaçõe",
+      "transmissao": "Transmitido há 3 dias"
+    },
+    {
+      "img": "./imagens/img8.svg",
+      "title": "Machine Learning Avançado - Fast Track",
+      "dio": "DigitalInnovationOne",
+      "view": "1,7 mil visualizações",
+      "transmissao": "Transmitido há 4 dias"
+    },
+    {
+      "img": "./imagens/img9.svg",
+      "title": "Global Skills #2 - Project Planning",
+      "dio": "DigitalInnovationOne",
+      "view": "971 visualizações",
+      "transmissao": "Transmitido há 5 dias"
+    }
+  ]
+}
